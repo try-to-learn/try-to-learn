@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @try-to-learn
+- 👋 Hi, I’m Arun
 - 👀 I’m interested in JS/TS, NodeJS, Python
 - 🌱 I’m currently learning NodeJS
 
