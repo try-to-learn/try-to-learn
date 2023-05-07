@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun
-- 👀 I’m interested in JS/TS, NodeJS, Python
+- 👀 I’m interested in JS/TS, NodeJS, Python, Doker, K8s
 - 🌱 I’m currently learning NodeJS
 
 <!---
